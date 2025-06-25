@@ -16,6 +16,8 @@ This project integrates object detection (YOLOv8) and action recognition (3D CNN
 ## 👤 Team
 
 - **Tanvi Ingale**
+- **Hrutvij Kakade**
+- **Vedant Chaudhari**
 
 ---
 
